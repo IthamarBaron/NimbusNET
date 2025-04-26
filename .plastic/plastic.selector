@@ -1,0 +1,4 @@
+repository "NimbusNET@local"
+  path "/"
+    br "/main"
+    co "/main"
